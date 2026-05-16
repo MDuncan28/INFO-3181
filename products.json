@@ -1,5 +1,4 @@
-{
-    "products": [
+[
         {
             "id": "LOG-G305LIGHTSP",
             "brand": "Logitech",
@@ -30866,5 +30865,4 @@
             "qtyOnBackOrder": "18",
             "description": null
         }
-    ]
-}
+]
