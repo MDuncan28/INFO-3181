@@ -1,5 +1,4 @@
-{
-    "products": [
+[
         {
             "id": "RAZ-DEATHADDER2",
             "brand": "Razer",
@@ -3080,5 +3079,4 @@
             "qtyOnBackOrder": "8",
             "description": "Optical mouse with 26000 DPI, right-handed design, green / black finish, wired, wireless, bluetooth wireless connectivity."
         }
-    ]
-}
+]
