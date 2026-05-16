@@ -1,5 +1,4 @@
-{
-    "products": [
+[
         {
             "id": "LOG-G305LIGHTSP",
             "brand": "Logitech",
@@ -30866,5 +30865,4 @@
             "qtyOnBackOrder": "16",
             "description": "Optical mouse with 12400 DPI, right-handed design, white finish, wired connectivity."
         }
-    ]
-}
+]
